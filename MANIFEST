@@ -7,7 +7,7 @@ README.md
 cpanfile
 inc/Module/AutoInstall.pm
 lib/Plack/Middleware/Debug/GitStatus.pm
-t/all_tests.t
+t/Plack/Middleware/Debug/GitStatus.t
 test-app.psgi
 META.yml
 MANIFEST
